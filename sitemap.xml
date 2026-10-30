@@ -5,10 +5,43 @@
     <loc>https://healthicons.org/</loc>
   </url>
   <url>
+    <loc>https://healthicons.org/packages</loc>
+  </url>
+  <url>
+    <loc>https://healthicons.org/packages/react</loc>
+  </url>
+  <url>
+    <loc>https://healthicons.org/packages/vue</loc>
+  </url>
+  <url>
+    <loc>https://healthicons.org/packages/svelte</loc>
+  </url>
+  <url>
+    <loc>https://healthicons.org/packages/javascript</loc>
+  </url>
+  <url>
     <loc>https://healthicons.org/about</loc>
   </url>
   <url>
+    <loc>https://healthicons.org/contribute</loc>
+  </url>
+  <url>
+    <loc>https://healthicons.org/code-of-conduct</loc>
+  </url>
+  <url>
     <loc>https://healthicons.org/history</loc>
+  </url>
+  <url>
+    <loc>https://healthicons.org/icon-log</loc>
+  </url>
+  <url>
+    <loc>https://healthicons.org/how-to-use</loc>
+  </url>
+  <url>
+    <loc>https://healthicons.org/figma-plugin</loc>
+  </url>
+  <url>
+    <loc>https://healthicons.org/licenses</loc>
   </url>
   <url>
     <loc>https://healthicons.org/request-icon</loc>
@@ -113,6 +146,11 @@
     <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/body/body.svg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://healthicons.org/icon/outline/body/bone</loc>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline/body/bone.svg</image:loc></image:image>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/body/bone.svg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://healthicons.org/icon/outline/body/neurology</loc>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/body/neurology.svg</image:loc></image:image>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/body/neurology.svg</image:loc></image:image>
@@ -208,6 +246,11 @@
     <loc>https://healthicons.org/icon/outline/body/liver-alt</loc>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/body/liver-alt.svg</image:loc></image:image>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/body/liver-alt.svg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://healthicons.org/icon/outline/body/bone-long</loc>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline/body/bone-long.svg</image:loc></image:image>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/body/bone-long.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://healthicons.org/icon/outline/body/lungs</loc>
@@ -1135,6 +1178,10 @@
     <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/emotions/face-happy.svg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://healthicons.org/icon/outline/emotions/happy-sleepy</loc>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline/emotions/happy-sleepy.svg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://healthicons.org/icon/outline/emotions/face-loudly-crying</loc>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/emotions/face-loudly-crying.svg</image:loc></image:image>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/emotions/face-loudly-crying.svg</image:loc></image:image>
@@ -1288,6 +1335,7 @@
   <url>
     <loc>https://healthicons.org/icon/outline/graphs/chart-pie</loc>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/graphs/chart-pie.svg</image:loc></image:image>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/graphs/chart-pie.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://healthicons.org/icon/outline/graphs/chart-bar_stacked</loc>
@@ -1328,6 +1376,10 @@
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/medications/blister-pills_round_x4.svg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://healthicons.org/icon/outline/medications/liquid-medicine</loc>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline/medications/liquid-medicine.svg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://healthicons.org/icon/outline/medications/medicines</loc>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/medications/medicines.svg</image:loc></image:image>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/medications/medicines.svg</image:loc></image:image>
@@ -1351,6 +1403,10 @@
     <loc>https://healthicons.org/icon/outline/medications/pills-4</loc>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/medications/pills-4.svg</image:loc></image:image>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/medications/pills-4.svg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://healthicons.org/icon/outline/medications/topical-medicine</loc>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline/medications/topical-medicine.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://healthicons.org/icon/outline/nutrition/alcohol</loc>
@@ -2227,6 +2283,10 @@
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/specialties/intensive-care_unit.svg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://healthicons.org/icon/outline/specialties/maxillofacial</loc>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline/specialties/maxillofacial.svg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://healthicons.org/icon/outline/specialties/medical-records</loc>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/specialties/medical-records.svg</image:loc></image:image>
   </url>
@@ -2483,6 +2543,10 @@
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/symbols/default.svg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://healthicons.org/icon/outline/symbols/acupuncture-2</loc>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline/symbols/acupuncture-2.svg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://healthicons.org/icon/outline/symbols/ear-nose-throat</loc>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/symbols/ear-nose-throat.svg</image:loc></image:image>
   </url>
@@ -2530,6 +2594,10 @@
     <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/symbols/fingerprint.svg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://healthicons.org/icon/outline/symbols/acupuncture-3</loc>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline/symbols/acupuncture-3.svg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://healthicons.org/icon/outline/symbols/sexual-reproductive_health</loc>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/symbols/sexual-reproductive_health.svg</image:loc></image:image>
   </url>
@@ -2547,9 +2615,17 @@
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/symbols/guide-dog.svg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://healthicons.org/icon/outline/symbols/acupuncture-4</loc>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline/symbols/acupuncture-4.svg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://healthicons.org/icon/outline/symbols/hazardous</loc>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/symbols/hazardous.svg</image:loc></image:image>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/symbols/hazardous.svg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://healthicons.org/icon/outline/symbols/acupuncture-1</loc>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline/symbols/acupuncture-1.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://healthicons.org/icon/outline/symbols/head-circumference</loc>
@@ -2724,6 +2800,10 @@
     <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/symbols/mental-health.svg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://healthicons.org/icon/outline/symbols/mental-health-therapy</loc>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline/symbols/mental-health-therapy.svg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://healthicons.org/icon/outline/symbols/negative</loc>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/symbols/negative.svg</image:loc></image:image>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/symbols/negative.svg</image:loc></image:image>
@@ -2839,6 +2919,7 @@
   <url>
     <loc>https://healthicons.org/icon/outline/symbols/close-policy_gaps_alt</loc>
     <image:image><image:loc>https://healthicons.org/icons/svg/outline/symbols/close-policy_gaps_alt.svg</image:loc></image:image>
+    <image:image><image:loc>https://healthicons.org/icons/svg/outline-24px/symbols/close-policy_gaps_alt.svg</image:loc></image:image>
   </url>
   <url>
     <loc>https://healthicons.org/icon/outline/symbols/polygon</loc>
